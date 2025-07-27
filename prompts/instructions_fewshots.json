@@ -1,0 +1,7 @@
+{
+  "fol": "Given a set of premises and a conclusion, generate the predicates and first-order logic representation of both the premises and the conclusion.",
+  "fol_single": "Generate the first order logic from teh sentence and predicate",
+  "predicate": "Given a set of premises and a conclusion, generate the predicates for the first-order logic representation of both the premises and the conclusion.",
+  "standard": "Based on the premise, derive if the conclusion is true, false, or unknown.",
+  "free_form": "xxx"
+}
