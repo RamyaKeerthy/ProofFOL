@@ -52,11 +52,11 @@ bash inference-fine-tuned.sh
 Evaluation is done in two steps:
 1. Pass model outputs to the inference tool:
 ```
-python tool_inference.py
+python scripts/tool_inference.py
 ```
 3. Calculate metrics & error distribution:
 ```
-python error_distribution.py
+python scripts/error_distribution.py
 ```
 
 These scripts will provide quantitative metrics and a detailed error distribution analysis for your outputs as mentioned in our paper.
